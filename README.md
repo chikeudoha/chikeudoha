@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chikeudoha
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning html, css and javascript.
-- 💞️ I’m looking to collaborate on web developmental projects.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me is on the udohachike@gmail.com
 
 <!---
